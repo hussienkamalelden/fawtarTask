@@ -4,7 +4,7 @@ function ProductReference() {
     return (
         <div className="product-reference" style={{ backgroundColor: "#F8F9FB" }}>
             <div className="container">
-                <div className='py-4 d-flex'>
+                <div className='py-4 d-flex flex-wrap'>
                     <div className='ms-3'>
                         <span className='label-title d-block mb-1'>رقم المنتج المرجعي (اختياري)</span>
                         <input className="common-input w-100" type="text" name="client-name" placeholder='رقم المنتج' />

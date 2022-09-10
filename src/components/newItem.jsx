@@ -4,8 +4,8 @@ function NewItem() {
     return (
 
         <div className="new-item">
-            <div className='d-flex py-4 container'>
-                <div className='d-flex mx-4 w-100'>
+            <div className='py-4 container'>
+                <div className='d-flex mx-4 w-100 flex-wrap'>
                     <div className='ms-3'>
                         <span className='label-title d-block mb-1'>مواصفات البند</span>
                         <textarea className="common-input common-input-textarea" name="" placeholder='مواصفات البند'></textarea>
