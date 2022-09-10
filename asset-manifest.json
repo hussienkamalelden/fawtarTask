@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fawtarTask/static/css/main.297553e9.css",
-    "main.js": "/fawtarTask/static/js/main.c6a7f52f.js",
+    "main.js": "/fawtarTask/static/js/main.a74d72ce.js",
     "index.html": "/fawtarTask/index.html",
     "main.297553e9.css.map": "/fawtarTask/static/css/main.297553e9.css.map",
-    "main.c6a7f52f.js.map": "/fawtarTask/static/js/main.c6a7f52f.js.map"
+    "main.a74d72ce.js.map": "/fawtarTask/static/js/main.a74d72ce.js.map"
   },
   "entrypoints": [
     "static/css/main.297553e9.css",
-    "static/js/main.c6a7f52f.js"
+    "static/js/main.a74d72ce.js"
   ]
 }
