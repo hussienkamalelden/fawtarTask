@@ -21,9 +21,6 @@ class AddItem extends Component {
                 <div id="add-new-items">
                     {this.state.items.map(component => component)}
                 </div>
-                <div className='container'>
-                    <button className="add-item-btn btn btn-primary mt-4" onClick={() => this.addNewItem()}>+ إضافة بند جديد</button>
-                </div>
             </div>
         );
     }
