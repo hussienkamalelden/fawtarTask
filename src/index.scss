@@ -37,7 +37,7 @@ html body{
     width: 300px;
     resize: none;
 }
-.delete-icon{
+.delete-icon, .reset-icon{
     color: red;
     display: flex;
     svg{
@@ -47,6 +47,10 @@ html body{
         width: 25px;
         height: 25px;
     }
+}
+.reset-icon{
+    color: darkviolet;
+    margin-inline-end: .7rem;
 }
 .product-reference{
     border-top: 1px solid #d8d8d8;
@@ -59,7 +63,6 @@ html body{
     font-weight: bold;
     color: gray;
 }
-
 .total-receipt{
     display: flex;
     flex-wrap: wrap;
